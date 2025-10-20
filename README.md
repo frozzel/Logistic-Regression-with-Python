@@ -20,7 +20,7 @@ pip install matplotlib==3.9.3
 
 Insert a screenshot illustrating results or workflow:
 
-![Model output screenshot](images/screenshot.png)
+![Model output screenshot](https://github.com/frozzel/Logistic-Regression-with-Python/blob/7c2185c2e1161f7d946e0dad108c1f13ee8d9e65/Screenshot%201.png)
 
 ## Classification with Logistic Regression
 
